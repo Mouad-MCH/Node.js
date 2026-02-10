@@ -21,3 +21,4 @@ export const insertDB = async (note) => {
     return note
 }
 
+// insertDB({tage:"hello", id:Date.now() , content:"hello clean your room!"})
